@@ -1,0 +1,6 @@
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\Async\Async\bin\Debug\Async.XML
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\Async\Async\bin\Debug\Async.exe
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\Async\Async\bin\Debug\Async.pdb
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\Async\Async\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\Async\Async\obj\x86\Debug\Async.exe
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\Async\Async\obj\x86\Debug\Async.pdb
