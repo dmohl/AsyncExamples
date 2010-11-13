@@ -1,0 +1,12 @@
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\Async\VBAsync\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\Async\VBAsync\obj\x86\Debug\VBAsync.Resources.resources
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\Async\VBAsync\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\Async\VBAsync\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\Async\VBAsync\bin\Debug\VBAsync.exe
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\Async\VBAsync\bin\Debug\VBAsync.pdb
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\Async\VBAsync\bin\Debug\VBAsync.xml
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\Async\VBAsync\bin\Debug\AsyncCtpLibrary.dll
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\Async\VBAsync\bin\Debug\AsyncCtpLibrary.xml
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\Async\VBAsync\obj\x86\Debug\VBAsync.exe
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\Async\VBAsync\obj\x86\Debug\VBAsync.xml
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\Async\VBAsync\obj\x86\Debug\VBAsync.pdb

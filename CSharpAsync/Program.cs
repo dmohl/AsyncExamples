@@ -30,8 +30,7 @@ namespace CSharpAsync
             var sitesHtml = 
                 await TaskEx.WhenAll(
                     sites.Select(site => GetHtml(site, printStrategy)));
-            Console.WriteLine("\r\nTotal Character length = {0}\r\nPress any key to continue", 
-                sitesHtml.Length);
+            Console.WriteLine("\r\nProcess Complete\r\nPress any key to continue");
         }
 
         static void Main(string[] args)

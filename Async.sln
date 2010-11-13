@@ -5,6 +5,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Async", "Async\Async.fsproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpAsync", "CSharpAsync\CSharpAsync.csproj", "{5D81EFDC-C237-48BE-8BB6-D21798414DEE}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBAsync", "VBAsync\VBAsync.vbproj", "{D814838D-2371-46C1-8EE8-99AA0C713BF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,6 +21,10 @@ Global
 		{5D81EFDC-C237-48BE-8BB6-D21798414DEE}.Debug|x86.Build.0 = Debug|x86
 		{5D81EFDC-C237-48BE-8BB6-D21798414DEE}.Release|x86.ActiveCfg = Release|x86
 		{5D81EFDC-C237-48BE-8BB6-D21798414DEE}.Release|x86.Build.0 = Release|x86
+		{D814838D-2371-46C1-8EE8-99AA0C713BF2}.Debug|x86.ActiveCfg = Debug|x86
+		{D814838D-2371-46C1-8EE8-99AA0C713BF2}.Debug|x86.Build.0 = Debug|x86
+		{D814838D-2371-46C1-8EE8-99AA0C713BF2}.Release|x86.ActiveCfg = Release|x86
+		{D814838D-2371-46C1-8EE8-99AA0C713BF2}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

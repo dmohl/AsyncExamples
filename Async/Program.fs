@@ -22,6 +22,6 @@ let printStrategy url (contents:string) =
 let sitesHtml = Async.Parallel [for site in sites -> getHtml site printStrategy]
                 |> Async.RunSynchronously
 
-do printfn "\r\nTotal Character length = %d\r\nPress any key to continue" sitesHtml.Length
+do printfn "\r\nProcess Complete\r\nPress any key to continue"
 
 do Console.ReadLine() |> ignore
